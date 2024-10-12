@@ -2,7 +2,7 @@
 
 **`Digital Craftsman (Developer/Designer/Creator/Marketer)`**
 
-write"
+"i will describe myself later"
 
 
 ### 🧰 Languages and Tools
