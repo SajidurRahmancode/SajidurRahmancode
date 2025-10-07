@@ -50,6 +50,7 @@ I'm a passionate **Full Stack Developer** with a strong focus on modern web tech
 <img align="left" alt="numpy" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg" />    
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 
+!
 ## 🔥 Featured Projects
 
 ### 🤖 [AI-Based Resume Grader](https://github.com/SajidurRahmancode/AI-Based-Resume-Grader-using-MERN)
